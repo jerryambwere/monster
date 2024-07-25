@@ -41,4 +41,4 @@ Above your list of monsters, you should have a form to create a new monster. You
 
 [Melvine Jerry Ambwere](https://github.com/jerryambwere/monster.git)
 
-the project is live @(https://jerryambwere.github.io/monster/)
+the project is live @(https://monster-rosy.vercel.app/)
