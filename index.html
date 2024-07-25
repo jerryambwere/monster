@@ -4,17 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MONSTERS</title>
-   <link rel="stylesheet" href="style.css/css/">
+   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-
-<form id="form" >
+<div id="div">
+<form id="forms">
     <h2>Add your own monster</h2>
     <table>
        <tr>
         <td>Name:</td>
         <td>
-            <input type="text" name="" placeholder="name" id="mon">       
+            <input type="text" name="" placeholder="name" id="mon" required>       
         </td>
        </tr>
        <tr>
@@ -22,20 +22,23 @@
             age:
         </td>
         <td>
-            <input type="number" name="" placeholder="age"  id="age">
+            <input type="number" name="" placeholder="age"  id="age" required>
         </td>
        </tr>
        <tr>
         <td>description:</td>
-        <td><input type="text" name="" placeholder="describe monster" id="describe"></td>
+        <td><input type="text" name="" placeholder="describe monster" id="describe" required></td>
        </tr>
     </table>
-    <button id="create">create</button>
+    <button type="submit" id="create">Create monster</button>
 </form>
+</div>
 <ol id="monsters"></ol>
+
 
 
 
     <script src="js/index.js" defer></script>
 </body>
 </html>
+

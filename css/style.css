@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Nosifer&family=Playwrite+CL:wght@100..400&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Creepster&family=Playwrite+CL:wght@100..400&display=swap");
+#div {
+  padding: 15px;
+  border-radius: 15px;
+  border-left: 50%;
+  font-size: large;
+
+  font-family: "Creepster", system-ui;
+  font-weight: 400;
+  font-style: normal;
+font-size: larger;
+  background-color: red;
+  margin: 0 auto;
+}
+#create {
+  
+  background-color: grey;
+  color: black;
+  padding: 10px 10px;
+  text-align: center;
+  border-radius: 10px;
+  border-radius: 10px;
+  font-family: "Nosifer", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+#monsters {
+  padding: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  border-radius: 10px;
+  background-color: #1a1a1a;
+  color: grey;
+
+  font-family: "Nosifer", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#mon{
+    padding: 10px;
+    border-radius: 10px;
+    font-family: "Nosifer", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#age{
+    padding: 10px;
+    border-radius: 10px;
+    font-family: "Nosifer", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#describe{
+    padding: 10px;
+    border-radius: 10px;
+    font-family: "Nosifer", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
