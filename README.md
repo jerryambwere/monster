@@ -26,8 +26,7 @@ Above your list of monsters, you should have a form to create a new monster. You
 
 - Remember to replace your username when cloning.
 
-      git clone https://github.com/your-github-username-here/interactive_shopping_list.git
-
+      git clone https://github.com/jerryambwere/monster.git
 ## Running the application locally
 
 - Open the index.html file in Mozilla Firefox, Safari or any Chromium-based browser.
@@ -40,4 +39,6 @@ Above your list of monsters, you should have a form to create a new monster. You
 
 ## Authors
 
-[Melvine Jerry Ambwere](https://github.com/oyieroyier/)
+[Melvine Jerry Ambwere](https://github.com/jerryambwere/monster.git)
+
+the project is live @(https://jerryambwere.github.io/monster/)

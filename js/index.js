@@ -5,7 +5,7 @@ const form1 = document.getElementById("forms");
 const monsters2=document.getElementById('monsters2')
 // to display the first 50 monsters
 
-fetch("http://localhost:3000/monsters")
+fetch("https://monsters-chi.vercel.app/monsters")
   .then((res) => res.json())
   .then((data) => {
     
@@ -27,7 +27,7 @@ const formData={
     age:document.getElementById('age').value,
     description:document.getElementById('describe').value
 }
-fetch('http://localhost:3000/monsters',{
+fetch('https://monsters-chi.vercel.app/monsters',{
     method:'POST',
     headers:{
         'Content-Type':'application/json'
